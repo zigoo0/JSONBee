@@ -1,5 +1,5 @@
 # JSONBee
-Collected JSONP endpoints to help bypass content security policy of different websites.
+A ready to use JSONP endpoints to help bypass content security policy of different websites.
 
 The tool was presented during HackIT 2018 in Keiv.
 
