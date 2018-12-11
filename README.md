@@ -1,7 +1,7 @@
 # JSONBee
 A ready to use JSONP endpoints to help bypass content security policy of different websites.
 
-The tool was presented during HackIT 2018 in Keiv. The presentation can be found here (not sure why the slides are screwed :D): https://www.slideshare.net/Hacken_Ecosystem/ebrahem-hegazy-bug-hunters-manual-for-bypassing-contentsecuritypolicy
+The tool was presented during HackIT 2018 in Keiv. The presentation can be found here (not sure why format of the slides is screwed :D): https://www.slideshare.net/Hacken_Ecosystem/ebrahem-hegazy-bug-hunters-manual-for-bypassing-contentsecuritypolicy
 
 # What is JSONBee?
 
