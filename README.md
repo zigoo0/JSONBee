@@ -5,7 +5,7 @@ The tool was presented during HackIT 2018 in Kiev. The presentation can be found
 
 # What is JSONBee?
 
-The main idea behind this tool is to find the JSONP endpoint(s) that would help you bypass content security policy for your target website in an automated way. JSONBee takes an input of a url name (i.e. https://www.facebook.com), parses the CSP (Content-Security Policy), and automatically suggest the XSS payload that would bypass the CSP. It mainly focuses on JSONP endpoints gathered during my bug bounty hunting activities, and could be used to bypass the CSP.
+The main idea behind this tool is to find the JSONP endpoint(s) that would help you bypass content security policy for your target website in an automated way. JSONBee takes an input of a url name (i.e. https://www.facebook.com), parses the CSP (Content-Security-Policy), and automatically suggest the XSS payload that would bypass the CSP. It mainly focuses on JSONP endpoints gathered during my bug bounty hunting activities, and could be used to bypass the CSP.
 
 JSONBee relies on 3 methods to gather the JSONP endpoints:
 * The repository within this project;
